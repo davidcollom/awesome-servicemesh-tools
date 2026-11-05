@@ -12,7 +12,7 @@
   
 - [linkerd/linkerd-await](https://github.com/linkerd/linkerd-await) — ⭐ 78 · Apache-2.0 — A program that blocks on linkerd readiness
 - [monzo/envoy-preflight](https://github.com/monzo/envoy-preflight) — ⭐ 144 · MIT — A wrapper for applications to help with running envoy as a sidecar
-- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) — ⭐ 11,523 · Apache-2.0 — Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+- [linkerd/linkerd2](https://github.com/linkerd/linkerd2) — ⭐ 11,524 · Apache-2.0 — Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [istio/istio](https://github.com/istio/istio) — ⭐ 38,490 · Apache-2.0 — Connect, secure, control, and observe services.
   
 ---
